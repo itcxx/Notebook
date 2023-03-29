@@ -13,3 +13,7 @@ My study note
 
 * 第一章. 论述[link](https://github.com/itcxx/Notebook/blob/main/oo_%E5%8E%9F%E5%88%99.ipynb)
 * 第二章. 编码格式[link](https://github.com/itcxx/Notebook/blob/main/oo_2.ipynb)
+
+> AI 理论
+
+* 第一章. 自然语言处理[link]()
