@@ -13,6 +13,7 @@ My study note
 
 * 第一章. 论述[link](https://github.com/itcxx/Notebook/blob/main/oo_%E5%8E%9F%E5%88%99.ipynb)
 * 第二章. 编码格式[link](https://github.com/itcxx/Notebook/blob/main/oo_2.ipynb)
+* 第三章. 三章[link](https://github.com/itcxx/Notebook/blob/main/%E7%BC%96%E7%A0%81_03.ipynb)
 
 > AI 理论
 
