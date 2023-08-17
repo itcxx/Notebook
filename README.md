@@ -9,6 +9,9 @@ My study note
 * 混淆矩阵画法[link](https://github.com/itcxx/Notebook/blob/main/MatrixShow.ipynb)
 * 目标检测框绘制[link](https://github.com/itcxx/Notebook/blob/main/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B.ipynb)
 
+  
+> 代码实现
+* 线性回归 [link](https://github.com/itcxx/Notebook/blob/main/LinearRegression.ipynb)
 
 > 安全编码 原则和理论
 
