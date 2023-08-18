@@ -12,6 +12,7 @@ My study note
   
 > 代码实现
 * 线性回归 [link](https://github.com/itcxx/Notebook/blob/main/LinearRegression.ipynb)
+* softmax回归 [link](https://github.com/itcxx/Notebook/blob/main/softmaxRegression.ipynb)
 
 > 安全编码 原则和理论
 
